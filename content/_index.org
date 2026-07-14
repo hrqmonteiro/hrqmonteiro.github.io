@@ -1,4 +1,0 @@
-#+TITLE: Homepage
-#+DESCRIPTION: Homepage
-
-* Test

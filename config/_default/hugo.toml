@@ -18,6 +18,12 @@ enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

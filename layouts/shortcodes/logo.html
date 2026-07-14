@@ -1,0 +1,8 @@
+{{- /* Renders a wide wordmark logo (Nintendo, Casio, ...) larger than a normal
+       inline icon so it stays readable. Usage: {{< logo "nintendo" >}} */ -}}
+{{- $icon := resources.Get (printf "icons/%s.svg" ($.Get 0)) -}}
+{{- if $icon -}}
+  <span class="brandlogo">{{- $icon.Content | safeHTML -}}</span>
+{{- else -}}
+  {{- errorf `logo shortcode: resource "icons/%s.svg" not found: %s` ($.Get 0) .Position -}}
+{{- end -}}

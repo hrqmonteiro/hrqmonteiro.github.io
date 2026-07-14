@@ -1,14 +1,32 @@
 [[main]]
+name = "Home"
+pageRef = "/"
+identifier = "HomeMenuItem"
+weight = 1
+
+[[main]]
+name = "Posts"
+pageRef = "/posts"
+identifier = "PostsMenuItem"
+weight = 2
+
+[[main]]
+name = "Uses"
+pageRef = "uses"
+identifier = "ex7OAU2ULA"
+weight = 3
+
+[[main]]
 pre = "github"
 url = "https://github.com/hrqmonteiro"
-identifier = "ZGS1PvvwXN"
-weight = 9_999
+identifier = "O2NHuqakMR"
+weight = 4
 
 [[main]]
 pre = "linkedin"
-url = "https://linkedin.com/hrqmonteiro"
-identifier = "H7q040hedU"
-weight = 9_999
+url = "https://linkedin.com/in/hrqmonteiro"
+identifier = "0hy9EcGOm2"
+weight = 5
 
 [[footer]]
 none = "none"

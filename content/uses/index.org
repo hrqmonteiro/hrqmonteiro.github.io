@@ -1,0 +1,211 @@
+#+title: Uses
+#+date: 2026-07-13
+
+Stuff i use everyday
+
+** Apps
+
+- [[https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html][Emacs {{< icon "emacs" >}}]] w/ [[https://github.com/doomemacs/core][Doom Emacs {{< icon "doom" >}}]]
+  - [[https://orgmode.org/][Org Mode {{< icon "org" >}}]]
+    - [[https://www.orgroam.com/][Org-roam]]
+    - [[https://github.com/minad/org-modern][Org-modern]]
+- [[https://firefox.com][Firefox {{< icon "firefox" >}}]]
+  - [[https://www.mrfdev.com/enhancer-for-youtube][Enhancer for YouTube {{< icon "youtube" >}}]]
+  - [[https://github.com/refined-github/refined-github][Refined Github {{< icon "refinedgithub" >}}]]
+  - [[https://returnyoutubedislike.com/][Return YouTube Dislike {{< icon "youtube" >}}]]
+  - [[https://sponsor.ajay.app/][SponsorBlock {{< icon "youtube" >}}]]
+  - [[https://github.com/tridactyl/tridactyl][Tridactyl {{< icon "tridactyl" >}}]] Vim-like extension for Firefox
+  - [[https://ublockorigin.com/][uBlock Origin {{< icon "ublock-origin" >}}]]
+- [[https://sw.kovidgoyal.net/kitty][Kitty {{< icon "kitty" >}}]]
+- [[https://neovim.io][Neovim {{< icon "nvim" >}}]]
+  - [[https://fennel-lang.org/][Fennel {{< icon "fennel" >}}]]
+  - [[https://www.lua.org/][Lua {{< icon "lua" >}}]]
+- [[https://netbird.io/][Netbird {{< icon "netbird" >}}]]
+- [[https://www.qbittorrent.org/][qBittorrent {{< icon "qbittorrent" >}}]]
+- [[https://syncthing.net/][Syncthing {{< icon "syncthing" >}}]]
+- [[https://thunderbird.net][Thunderbird {{< icon "thunderbird" >}}]]
+- [[https://github.com/tmux/tmux][Tmux {{< icon "tmux" >}}]]
+- [[https://www.videolan.org/vlc/][VLC {{< icon "vlc" >}}]]
+- [[https://www.zsh.org/][ZSH {{< icon "zsh" >}}]]
+  - [[https://starship.rs/][Starship {{< icon "starship" >}}]]
+
+** Gaming consoles
+
+- [[https://en.wikipedia.org/wiki/Game_Boy_Advance_SP][GameBoy Advance SP {{< logo "nintendo" >}}]]
+- [[https://en.wikipedia.org/wiki/New_Nintendo_2DS_XL][New Nintendo 2DS XL {{< logo "nintendo" >}}]]
+- [[https://en.wikipedia.org/wiki/Nintendo_3DS_XL][Nintendo 3DS XL {{< logo "nintendo" >}}]]
+- [[https://en.wikipedia.org/wiki/Nintendo_DSi][Nintendo DSI {{< logo "nintendo" >}}]]
+- [[https://www.nintendo.com/us/switch/oled-model/][Nintendo Switch OLED {{< logo "nintendo" >}}]]
+- [[https://boyhom.pro/r36s/][R36S {{< logo "boyhom" >}}]]
+- [[https://www.goretroid.com/products/retroid-pocket-flip-2][Retroid Pocket Flip 2 SD865 {{< logo "retroid" >}}]]
+- [[https://anbernic.com/products/rg35xxsp][RG35XXSP {{< logo "anbernic" >}}]]
+- [[https://store.steampowered.com/steamdeck][Steam Deck LCD 512GB {{< icon "steamdeck" >}}]]
+  - [[https://bazzite.gg/][Bazzite {{< icon "bazzite" >}}]]
+  - [[https://store.epicgames.com/][Epic Games {{< icon "epicgames" >}}]]
+  - [[https://www.gog.com/][GOG {{< icon "gog" >}}]]
+  - [[https://heroicgameslauncher.com/][Heroic Games Launcher {{< icon "heroic" >}}]]
+  - [[https://kde.org/][KDE {{< icon "kde" >}}]]
+  - [[https://waydro.id/][Waydroid {{< icon "waydroid" >}}]]
+
+** Home Office
+
+*** Audio
+- [[https://usa.1more.com/products/1more-sonoflow-wireless-active-noise-cancelling-headphones?srsltid=AfmBOoqkE0jtmmH6iB-KgmJG3ghSZeAvSpbiOaJdF0c4kzpSjN6eYK2B][1MORE SonoFlow]]
+- [[https://attackshark.net.br/products/l80-wireless-gaming-headset-noise-canceling][AttackShark L80]]
+- [[https://us.creative.com/p/speakers/creative-pebble-v2][Creative Pebble V2]]
+- [[https://fifinemicrophone.com/products/fifine-ampligame-am8-microphone][FIFINE AmpliGame AM8]] w/ [[https://www.amazon.com.br/YOUSHARES-Bra%C3%A7o-Lan%C3%A7a-Branco-Fifine/dp/B0CT2DTJ2C][YOUSHARES Arm]]
+
+*** Desk
+- [[https://www.comfy.com.br/mesa-com-regulagem-de-altura-eletrica-comfy-ergolift-base-preta-com-3-memorias-e-tampo-preto.html][Comfy Ergolift 160cm]]
+
+*** Display
+- [[https://www.msi.com/Business-Productivity-Monitor/PRO-MP275-E2][2x MSI PRO MP276W E2 27" 120HZ IPS {{< icon "msi" >}}]]
+- [[https://aliexpress.com/item/1005007973702261.html][7" Portable Screen IPS LCD]]
+
+*** E-Reader
+- [[https://www.amazon.com/dp/B08KTZ8249][Kindle Paperwhite 8GB {{< icon "kindle" >}}]]
+- [[https://www.xteink.com/products/xteink-x4][XTEINK X4]]
+
+*** Joystick
+- [[https://www.8bitdo.com/ultimate-2-wireless-controller/][8BitDo Ultimate 2 Wireless]]
+
+*** Keyboard
+- [[https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard][Keychron K3 V2]] w/ Gateron Brown switches
+- [[https://archisite.co.jp/products/archiss/quattro/tkl-jp/][Quattro TKL]] w/ Cherry Red switches
+- [[https://www.redragon.com.br/brahmapro-abnt2][Redragon Brahma Pro ABNT2 {{< icon "redragon" >}}]] w/ Redragon Linear Red switches
+- [[https://rkgamingstore.com/products/rk61-60-percent-keyboard][Royal Kludge RK61]] w/ Kailh Box V2 Brown switches
+
+*** Mice
+- [[https://attackshark.net.br/products/attack-shark-x11-wireless-gaming-mouse-charging-dock?shpxid=e8d3f573-9124-4d3e-9c2d-7b2fb94d2d98][Attack Shark X11 Mouse]]
+
+*** Storage
+- [[https://www.seagate.com/support/external-hard-drives/portable-hard-drives/seagate-portable-drive/][Seagate Portable Drive 4TB {{< icon "seagate" >}}]]
+
+*** Misc
+- [[http://www.yunbaoit.com/productinfo/1454337.html][Yunbaoit Visual Timer]] for doing Pomodoro sessions
+
+** Home Theater
+
+- [[https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/][The Frame 2022 {{< logo "samsung" >}}]]
+  - [[https://github.com/jellyfin/jellyfin-tizen][Jellyfin for Tizen]] that i install by putting the TV in [[https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-device.html][developer mode]] and using [[https://github.com/Georift/install-jellyfin-tizen][this script]] that automates it's installation using Docker.
+  - [[https://github.com/reisxd/TizenBrew][TizenBrew]] for installing homebrew apps like:
+    - [[https://github.com/reisxd/TizenTube][TizenTube]] a modded YouTube client for Tizen TVs with features like AdBlock and enhancements.
+- [[https://electronics.sony.com/tv-video/blu-ray-dvd-players/p/ubpx700][UBP-X700K 4K Ultra HD Blu-ray Player {{< logo "sony" >}}]]
+
+** Mobile
+
+My main smartphone is the Pixel, i use the iPhone only for testing in-development iOS apps in [[https://developer.apple.com/testflight/][TestFlight]] for work purposes.
+
+*** Smartphones
+
+- Google Pixel 7 128GB {{< icon "google" >}}
+  - [[https://crdroid.net/][CRDroid {{< icon "crdroid" >}}]] w/ Android 16
+  - [[https://github.com/topjohnwu/Magisk][Magisk {{< icon "magisk" >}}]] w/ Zygisk
+
+  - Apps
+    - [[https://adaway.org/][AdAway {{< icon "adaway" >}}]]
+    - [[https://getaegis.app/][Aegis Authenticator {{< icon "aegis" >}}]]
+    - [[https://f-droid.org/][F-Droid {{< icon "f-droid" >}}]]
+    - [[https://github.com/teamnewpipe/newpipe][NewPipe {{< icon "newpipe" >}}]]
+    - [[https://revanced.app/][ReVanced {{< icon "revanced" >}}]]
+
+- iPhone 11 256GB {{< icon "apple" >}}
+  - iOS 26 {{< icon "ios" >}}
+
+*** Audio
+- [[https://www.mi.com/br/product/redmi-buds-3/][Redmi Buds 3 {{< icon "xiaomi" >}}]]
+
+** Homelab
+
+Running on Docker on my homelab. Mostly are composed of [[https://wiki.servarr.com][*arr applications]] to automate and manage media collection that is consumed by [[https://jellyfin.org/][Jellyfin]] and utilities around it.
+
+- Media
+  - [[https://github.com/ThePhaseless/Byparr][Byparr {{< icon "byparr" >}}]]
+  - [[https://github.com/Cleanuparr/Cleanuparr][Cleanuparr {{< icon "cleanuparr" >}}]]
+  - [[https://github.com/raydak-labs/configarr][Configarr {{< icon "configarr" >}}]]
+  - [[https://github.com/FlareSolverr/FlareSolverr][FlareSolverr {{< icon "flaresolverr" >}}]]
+  - [[https://jellyfin.org/][Jellyfin {{< icon "jellyfin" >}}]]
+  - [[https://github.com/Fallenbagel/jellyseerr][Jellyseerr {{< icon "jellyseerr" >}}]]
+  - [[https://lidarr.audio/][Lidarr {{< icon "lidarr" >}}]]
+  - [[https://prowlarr.com/][Prowlarr {{< icon "prowlarr" >}}]]
+  - [[https://www.qbittorrent.org/][qBittorrent {{< icon "qbittorrent" >}}]]
+  - [[https://radarr.video/][Radarr {{< icon "radarr" >}}]]
+  - [[https://readarr.com/][Readarr {{< icon "readarr" >}}]]
+  - [[https://sonarr.tv/][Sonarr {{< icon "sonarr" >}}]]
+- Utils
+  - [[https://github.com/glanceapp/glance][Glance {{< icon "glance" >}}]]
+    - [[https://hub.docker.com/r/haumea/glance-github-graph][glance-github-graph]]
+    - [[https://github.com/AWildLeon/glance-ical-events][glance-ical-api]]
+  - [[https://gotify.net/][Gotify {{< icon "gotify" >}}]]
+  - [[https://www.home-assistant.io/][Home Assistant {{< icon "homeassistant" >}}]]
+  - [[https://librespeed.org/][LibreSpeed {{< icon "librespeed" >}}]]
+  - [[https://github.com/jokob-sk/NetAlertX][NetAlertX {{< icon "netalertx" >}}]]
+  - [[https://speedtest-tracker.dev/][Speedtest Tracker {{< icon "speedtest-tracker" >}}]]
+  - [[https://github.com/louislam/uptime-kuma][Uptime Kuma {{< icon "uptime-kuma" >}}]]
+
+** Wearables
+
+- [[https://www.casio.com/br/watches/casio/product.AE-1200WHD-1AV/][Casio Classic AE1200WHD-1A {{< logo "casio" >}}]]
+
+** Workstations
+
+*** Desktop
+
+Triple boot on a single SSD with [[https://www.rodsbooks.com/refind/][reFIND]] boot manager.
+
+Linux is my main use day-to-day, i use FreeBSD mostly for learning and Windows 11 for some games with anticheat (like Battlefield 6), rest of my gaming i also do on Linux.
+
+**** Hardware
+
+- [[https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5-rgb-memory][32GB RAM (2x16GB) Kingston Fury Beast RGB DDR5 {{< icon "kingston" >}}]]
+- [[https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7800-xt.html][AMD Radeon RX 7800XT 16GB GDDR6 {{< logo "amd" >}}]]
+- [[https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html][AMD Ryzen 5 9600X 3.9GHZ/5.4GHZ 6-Core 12 Threads AM5 {{< logo "amd" >}}]]
+- [[https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650m-plus/][ASUS TUF Gaming B650M-Plus AM5 {{< logo "asus" >}}]]
+- [[https://www.kabum.com.br/produto/603225/fonte-husky-sledger-850w-80-plus-gold-cybenetics-gold-pfc-ativo-full-modular-bivolt-hfn850pt][Husky Sledger 850W 80 Plus Gold {{< icon "husky" >}}]]
+- [[https://www.redragon.com.br/wideloadlite][Redragon Wideload Lite {{< icon "redragon" >}}]]
+- [[https://www.kabum.com.br/produto/419100/water-cooler-rise-mode-aura-frost-pro-argb-360mm-amd-intel-branco-rm-wcf-07-argb][Rise Mode Aura Frost Pro ARGB 360mm {{< logo "risemode" >}}]]
+- [[https://www.kabum.com.br/produto/502274/kit-com-3-ventoinhas-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb][Rise Mode X 120mm ARGB (3x fans) {{< logo "risemode" >}}]]
+- [[https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd][SSD Kingston NV3 1TB NVMe {{< icon "kingston" >}}]]
+
+**** Software
+
+- [[https://freebsd.org][FreeBSD {{< icon "freebsd" >}}]]
+  - [[https://xfce.org][XFCE {{< icon "xfce" >}}]]
+    - [[https://github.com/nana-4/materia-theme][Materia Theme]]
+    - [[https://github.com/PapirusDevelopmentTeam/papirus-icon-theme][Papirus Icon Theme]]
+    - [[https://gottcode.org/xfce4-whiskermenu-plugin/][Whisker Menu]]
+  - [[https://www.x.org/][X.org {{< icon "xorg" >}}]]
+
+- [[https://cachyos.org][CachyOS {{< icon "cachyos" >}}]]
+  - [[https://hypr.land/][Hyprland {{< icon "hyprland" >}}]]
+  - [[https://quickshell.org/][Quickshell {{< icon "qt" >}}]]
+  - [[https://wayland.freedesktop.org/][Wayland {{< icon "wayland" >}}]]
+
+- [[https://www.microsoft.com/software-download/windows11][Windows 11 {{< icon "windows" >}}]]
+  - [[https://learn.microsoft.com/en-us/windows/wsl/install][WSL2 {{< icon "linux" >}}]] w/ [[https://ubuntu.com/][Ubuntu {{< icon "ubuntu" >}}]]
+
+*** Laptop
+
+I have two Macbooks used exclusively for working (since i need to compile iOS/macOS apps and that can only be done using a Macbook/iMac with macOS)
+
+**** Hardware
+
+- Macbook Air 13" M2 2022 {{< icon "apple" >}}
+  - macOS Tahoe 26 {{< logo "mac" >}}
+
+  @@html:<kbd>8GB RAM</kbd> <kbd>256GB SSD</kbd>@@
+
+- Macbook Pro 14" M5 2026 {{< icon "apple" >}}
+  - macOS Tahoe 26 {{< logo "mac" >}}
+
+  @@html:<kbd>24GB RAM</kbd> <kbd>1TB SSD</kbd>@@
+
+**** Software
+
+- [[https://www.alfredapp.com/][Alfred]]
+- [[https://github.com/lwouis/alt-tab-macos][AltTab]]
+- [[https://github.com/newmarcel/KeepingYouAwake][KeepingYouAwake]]
+- [[https://github.com/rxhanson/rectangle][Rectangle]]
+- [[https://skim-app.sourceforge.io/][Skim]]
+- [[https://github.com/stonerl/Thaw][Thaw]]
+- [[https://developer.apple.com/xcode/][Xcode {{< icon "xcode" >}}]]
