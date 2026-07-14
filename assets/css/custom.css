@@ -1,0 +1,13 @@
+.prose ul {
+  list-style-type: circle;
+}
+
+.brandlogo {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.brandlogo svg {
+  height: 0.5em;
+  width: auto;
+}
